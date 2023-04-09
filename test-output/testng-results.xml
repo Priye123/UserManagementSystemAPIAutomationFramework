@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-08T14:12:48 IST" name="Default suite" finished-at="2023-04-08T14:12:50 IST" duration-ms="2194">
+  <suite started-at="2023-04-09T18:16:07 IST" name="Default suite" finished-at="2023-04-09T18:16:07 IST" duration-ms="55">
     <groups>
     </groups>
-    <test started-at="2023-04-08T14:12:48 IST" name="Default test" finished-at="2023-04-08T14:12:50 IST" duration-ms="2194">
-      <class name="testcases.TestCases">
-        <test-method signature="addUser()[pri:0, instance:testcases.TestCases@16610890]" started-at="2023-04-08T14:12:48 IST" name="addUser" finished-at="2023-04-08T14:12:50 IST" duration-ms="2157" status="PASS">
+    <test started-at="2023-04-09T18:16:07 IST" name="Default test" finished-at="2023-04-09T18:16:07 IST" duration-ms="55">
+      <class name="codingchallenges.Codes">
+        <test-method signature="buildingNumberAdd()[pri:0, instance:codingchallenges.Codes@4efc180e]" started-at="2023-04-09T18:16:07 IST" name="buildingNumberAdd" finished-at="2023-04-09T18:16:07 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addUser -->
-      </class> <!-- testcases.TestCases -->
+        </test-method> <!-- buildingNumberAdd -->
+      </class> <!-- codingchallenges.Codes -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

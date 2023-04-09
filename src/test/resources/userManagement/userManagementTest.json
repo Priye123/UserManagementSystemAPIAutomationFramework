@@ -1,0 +1,22 @@
+{
+  "addUser": {
+    "name": "Gagan",
+    "dob": "1980-05-23",
+    "houseNumber": "L-38",
+    "aadharNumber": 32700,
+    "HomeaddressLine1": "Terminal-1",
+    "HomeaddressLine2": "Terminal-2",
+    "Homelandmark": "Mandir",
+    "pin": 54,
+    "buildingNumber": 5.2,
+    "OfficeaddressLine1": "Carol Bagh",
+    "OfficeaddressLine2": "Jama Masjid",
+    "Officelandmark": "Bus Stand",
+    "cardId": "EMP-002"
+  },
+  "expected":{
+    "statusCode":200
+  },
+  "updateUser": {},
+  "deleteUser": {}
+}
